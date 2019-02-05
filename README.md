@@ -1,2 +1,2 @@
 # DVCS
-documents version control system
+the documents version control system
